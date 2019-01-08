@@ -1,0 +1,22 @@
+h1 {
+  color: hotpink;
+  text-align: center;
+  font-weight: 1;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 90px;
+  text-align: center;
+
+}
